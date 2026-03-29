@@ -1,4 +1,4 @@
-# Baraya
+# Baraya - THR Minggu 4 State Management
 
 ## Informasi Mahasiswa
 
@@ -29,24 +29,44 @@ Baraya adalah aplikasi mobile berbasis React Native (Expo) untuk membantu persia
 
 ## Screenshot
 
-### Dashboard
+### Dashboard - Light Theme
 <p align="center">
   <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774616238/dashboard_rdgdgf.webp" alt="dashboard" width="300" />
 </p>
 
-### Packing
+### Packing - Light Theme
 <p align="center">
   <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774616239/packing_urfgpw.webp" alt="packing" width="300" />
 </p>
 
-### Kunjungan
+### Kunjungan - Light Theme
 <p align="center">
   <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774616239/kunjungan_n1sepk.webp" alt="kunjungan" width="300" />
 </p>
 
-### Anggaran
+### Anggaran - Light Theme
 <p align="center">
   <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774616239/anggaran_suyksy.webp" alt="anggaran" width="300" />
+</p>
+
+### Dashboard - Dark Theme
+<p align="center">
+  <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774782336/DashboardD_gbcopr.webp" alt="dashboard" width="300" />
+</p>
+
+### Packing - Dark Theme
+<p align="center">
+  <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774782337/PackingD_aliaqk.webp" alt="packing" width="300" />
+</p>
+
+### Kunjungan - Dark Theme
+<p align="center">
+  <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774782336/KunjunganD_h51ae4.webp" alt="kunjungan" width="300" />
+</p>
+
+### Anggaran - Dark Theme
+<p align="center">
+  <img src="https://res.cloudinary.com/drrmbeiyk/image/upload/v1774782336/AnggaranD_fhoixy.webp" alt="anggaran" width="300" />
 </p>
 
 ## Cara Menjalankan
